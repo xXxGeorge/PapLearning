@@ -1,1 +1,1 @@
-This Project is just used to share my notes with some friends: some of them need help, at the same time i am proud of my notes(laugh). so the project is established.
+I built this project just to share my notes with some friends. it just so happens that i think my notes are freaking awesome(compared to theirs😆 ).
