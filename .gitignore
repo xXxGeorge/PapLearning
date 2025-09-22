@@ -1,0 +1,26 @@
+# macOS 系统文件
+.DS_Store
+
+# 垃圾箱相关
+.trash/
+
+# 私有文件夹
+_Private/
+
+# 参考文件夹
+_Reference/
+
+# 缓存
+Cache/
+
+# 笔记模板
+Templates/
+
+# Obsidian 设置
+.obsidian/
+
+# markdown书写的注意事项
+Configuration.md
+
+# 自定义图标
+Icon?
